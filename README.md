@@ -33,7 +33,7 @@ Install the application into Tethys:
 If prompted during installation, accept the default option to install in development mode (`tethys install -d`).
 (Optional) Sync persistent stores/databases (if applicable):
 ```bash
-   tethys syncstores flashflood_nepal
+   tethys syncstores regionaldrought
    ```
 ---
 🏃 Step 3: Run the Application
