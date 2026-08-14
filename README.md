@@ -24,7 +24,7 @@ Activate your Tethys Conda/Virtual Environment:
 Clone this repository:
 ```bash
    git clone [https://github.com/ShakyaKiran/tethysapp-regionaldrought.git](https://github.com/ShakyaKiran/tethysapp-regionaldrought.git)
-   cd tethysapp-flashflood_nepal
+   cd tethysapp-regionaldrought
    ```
 Install the application into Tethys:
 ```bash
