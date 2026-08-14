@@ -2,10 +2,10 @@
 An interactive web application developed on Tethys Platform for monitoring, forecasting, and visualizing Regional Drought.
 ---
 📋 Features
-Real-time & Forecast Visualizations: Interactive maps displaying fRegional Drought.
+Real-time & Forecast Visualizations: Interactive maps displaying Regional Drought.
 ---
 🛠️ Prerequisites
-Before installing the Flash Flood Nepal application, ensure you have the following installed on your system:
+Before installing the Regional Drought application, ensure you have the following installed on your system:
 Conda (Miniconda or Anaconda) or Micromamba
 Python 3.10 or higher
 Git**
